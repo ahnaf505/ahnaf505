@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahnaf</h1>
 <h3 align="center">A passionate software and web developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **Waybill Archive**
+- 🔭 I’m currently working on **FaceDetec'**
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **FastAPI**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 📑 I’m looking to collaborate on **Open Source Projects**
 
 - 📝 I regularly write articles on [https://articles.ahnaf.id](https://articles.ahnaf.id)
 
