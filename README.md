@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://ahnaf.id](https://ahnaf.id)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
