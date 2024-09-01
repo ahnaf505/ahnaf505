@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahnaf</h1>
 <h3 align="center">A passionate software and web developer from Indonesia</h3>
 
-- 🔭 I’m currently working on **FaceDetec'**
+- 🔭 I’m currently working on **FaceDentify**
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m currently learning **Node JS**
 
 - 📑 I’m looking to collaborate on **Open Source Projects**
-
-- 📝 I regularly write articles on [https://articles.ahnaf.id](https://articles.ahnaf.id)
 
 - 📫 How to reach me **personal@ahnaf.id**
 
