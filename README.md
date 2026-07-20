@@ -21,4 +21,4 @@ I love digging into databases, automating stuff with Python, and currently on a 
 - I love building things, but finishing them? That’s a different story. 🗃
 
 ### 📫 Connect With Me
-📧 Email: ahnafdeveloper@gmail.com
+📧 Email: finediamond@proton.me
