@@ -11,9 +11,9 @@ I love digging into databases, automating stuff with Python, and currently on a 
 - 🔨 **C & C++ Learner** – Because native percormance is kinda cool.
 
 ### 🚀 Tech & Tools  
-🗄️ Database: PostgreSQL | SQLite | TinyDB  
-⌨️ Language: Python | C | bash  
-🖥 Devs: CachyOS | KDE Plasma | Ghostty  
+🗄️ Database: PostgreSQL | ElasticSearch
+⌨️ Language: Javascript Python | C | bash  
+🖥 Devs: CachyOS | KDE Plasma | Ghostty | zsh  
 
 ### 🎯 Fun Facts
 - I spent hours automating a 5-minute task, and I never regret it. ⏱
