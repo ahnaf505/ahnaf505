@@ -13,7 +13,7 @@ I love digging into databases, automating stuff with Python, and currently on a 
 ### 🚀 Tech & Tools  
 🗄️ Database: PostgreSQL | SQLite | TinyDB  
 ⌨️ Language: Python | C | bash  
-🖥 Devs: Manjaro | Hyprland | Neovim  
+🖥 Devs: CachyOS | KDE Plasma | Ghostty  
 
 ### 🎯 Fun Facts
 - I spent hours automating a 5-minute task, and I never regret it. ⏱
